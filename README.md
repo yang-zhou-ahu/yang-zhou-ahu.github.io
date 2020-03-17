@@ -1,6 +1,6 @@
 ## Welcome to Zhou Yang's Home Pages
 
-I am currently a first-year PhD. student of Huazhong University of Science and Technology, under the supervision by Prof. Xinge You. My research interests includes computer vision,pattern recognition and deep learning.
+I am currently a 2nd-year Master. student of Anhui University, under the supervision by Prof. Jing Zhao. My research interests includes computer vision,linear motor, control engineering and deep learning.
 
 Homepage: https://yang-zhou-ahu.github.io
 
