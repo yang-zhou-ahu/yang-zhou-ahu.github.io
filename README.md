@@ -1,6 +1,6 @@
 ## Welcome to Zhou Yang's Home Pages
 
-I am currently a 2nd-year Master. student of Anhui University, under the supervision by Prof. Jing Zhao. My research interests includes computer vision,linear motor, control engineering and deep learning.
+I am a Master in engineering of Anhui University, under the supervision by Prof. Jing Zhao. She has benefited me a lot, and I am very grateful to her. My research interests includes computer vision, linear motor, control engineering and deep learning.
 
 Homepage: https://yang-zhou-ahu.github.io
 
